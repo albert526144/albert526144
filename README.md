@@ -4,35 +4,15 @@
 
 With over a decade of experience in web development and more than 8 years as a seasoned Full Stack Developer, I possess an unparalleled mastery of both frontend and backend systems. My expertise lies in architecting scalable, high-performance, and user-centric web applications utilizing cutting-edge technologies such as React.js, Vue.js, and Node.js. Proficient in server-side rendering frameworks like Next.js and Nuxt.js, I deliver seamless, optimized solutions tailored to meet the most intricate project requirements. On the backend, my proficiency with Python—leveraging robust frameworks like Django, Flask, and FastAPI—empowers me to design secure, enterprise-grade APIs. My adaptability across diverse technologies ensures precision and efficiency in crafting solutions that exceed expectations.
 
-PROFESSIONAL COMPETENCIES
-
-- Frontend Expertise:
-React, Vue, Next.js, and TypeScript, Bootstrap, MUI, Semantic UI.
-
-- Backend Specialization:
-Node.js, Python, Django, Flask, FastAPI, SQLAlchemy.
-
-- Advanced Libraries & Tools:
-GraphQL/Apollo, D3, Chart.js, Three.js.
-
-- Database Mastery:
-MySQL, MongoDB, PostgreSQL, DynamoDB, Redis
-
-- API Integration Proficiency:
-SendGrid, Twilio, Stripe, PayPal, Zoom, Google APIs (Maps, Sheets, Forms), eBay, AWS APIs, ensuring seamless external service integration.
-
-- Cloud & DevOps Excellence:
-AWS (EC2, S3, Lambda, RDS), Azure, Docker,Kubernetes, CI/CD pipelines.
-
-WHY I STAND OUT
 I take a comprehensive approach to software engineering, merging technical acumen with strategic foresight. From ideation to deployment, I actively collaborate with stakeholders to ensure the final product not only aligns with business objectives but also delights end-users with intuitive functionality and polished design. My passion lies in translating complex problems into innovative, scalable, and elegant solutions through meticulous attention to detail and a commitment to continuous improvement.
 
 Whether it’s pioneering data-rich applications, engineering scalable microservices, or crafting immersive user experiences, I am dedicated to leveraging my extensive expertise to drive exceptional results. 
 
+####[My Profile Summary 🔗](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashid5300&show_icons=true&count_private=true&theme=dark)
 ![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashid5300&count_private=true&show_icons=true&include_all_commits=true&hide_title=false&hide_rank=false&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid5300&layout=compact&langs_count=4&hide=HTML,%20CSS&theme=dark"/>
 
-####[My Profile Summary 🔗](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashid5300&show_icons=true&count_private=true&theme=dark)
+
 
 <div dir="auto">
 <h2 dir="auto">My Skills 🛠️</h1>
