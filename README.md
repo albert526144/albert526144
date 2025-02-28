@@ -31,7 +31,8 @@ Whether it’s pioneering data-rich applications, engineering scalable microserv
 
 ![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashid5300&count_private=true&show_icons=true&include_all_commits=true&hide_title=false&hide_rank=false&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashid5300&layout=compact&langs_count=4&hide=HTML,%20CSS&theme=dark"/>
-[My Profile Summary 🔗](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashid5300&show_icons=true&count_private=true&theme=dark)
+
+####[My Profile Summary 🔗](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashid5300&show_icons=true&count_private=true&theme=dark)
 
 <div dir="auto">
 <h2 dir="auto">My Skills 🛠️</h1>
