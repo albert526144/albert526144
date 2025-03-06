@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashid!</h1>
 
-<h3 align="center">Senior Full Stack Developer!</h3>
+<h3 align="center">Senior Full Stack Developer/React, Vue, Node, Python, C#</h3>
 
 With over a decade of experience in web development and more than 8 years as a seasoned Full Stack Developer, I possess an unparalleled mastery of both frontend and backend systems. My expertise lies in architecting scalable, high-performance, and user-centric web applications utilizing cutting-edge technologies such as React.js, Vue.js, and Node.js. Proficient in server-side rendering frameworks like Next.js and Nuxt.js, I deliver seamless, optimized solutions tailored to meet the most intricate project requirements. On the backend, my proficiency with Python—leveraging robust frameworks like Django, Flask, and FastAPI—empowers me to design secure, enterprise-grade APIs. My adaptability across diverse technologies ensures precision and efficiency in crafting solutions that exceed expectations.
 
