@@ -1,7 +1,7 @@
 <h1 align="center">Albert</h1>
-<h3 align="center">Senior Full Stack Developer</h3>
+<h3>Senior Full Stack Developer</h3>
 
-<p align="center">
+<p>
 I build scalable, full-stack applications that help startups and businesses move faster—with clean, maintainable code and cloud-native architecture that’s ready to grow.
 </p>
 
@@ -20,9 +20,7 @@ My core strength lies in backend architecture and cloud infrastructure, but I’
 🎯 <strong>An outcome-focused mindset</strong>
 </p>
 
-<h2 align="center">Tech Stack & Tools 🛠️</h2>
-
-<p align="center">
+<h2>Tech Stack & Tools 🛠️</h2>
 <!-- Frontend -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/></a>
@@ -56,11 +54,5 @@ My core strength lies in backend architecture and cloud infrastructure, but I’
 <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
 <a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
 <a href="https://figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
 
----
 
-<h2 align="center">Let’s connect and build something exceptional.</h2>
-<p align="center">
-I'm particularly excited about building cloud-native, microservice-based platforms using Python or Node.js on AWS/GCP, paired with modern frontends in React or Vue. That said, I always adapt to what your team and product actually need.
-</p>
