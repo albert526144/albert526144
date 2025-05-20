@@ -21,6 +21,7 @@ My core strength lies in backend architecture and cloud infrastructure, but I’
 </p>
 
 <h2>Tech Stack & Tools 🛠️</h2>
+<p align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" />
@@ -77,3 +78,5 @@ My core strength lies in backend architecture and cloud infrastructure, but I’
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva" />
+
+  </p>
